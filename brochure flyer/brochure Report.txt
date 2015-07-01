@@ -1,0 +1,132 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: brochure.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 11.25 in x 8.75 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro (OTF)
+Roboto Condensed (OTF)
+Roboto Black (OTF)
+Roboto Italic (OTF)
+Roboto Regular (OTF)
+Roboto Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/GraphExport.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 359K, 322 by 286 pixels
+Dimensions: 160.786 by 142.81 points 
+Resolution: 144.192 by 144.192 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/AdmiraltyChart.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 968K, 582 by 426 pixels
+Dimensions: 186.232 by 136.314 points 
+Resolution: 225.01 by 225.01 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/TimeController.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 354K, 413 by 220 pixels
+Dimensions: 283.447 by 150.989 points 
+Resolution: 104.908 by 104.908 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/OutlineView.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 564K, 415 by 348 pixels
+Dimensions: 169.553 by 142.179 points 
+Resolution: 176.228 by 176.228 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/PlotExport.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 1949K, 825 by 605 pixels
+Dimensions: 190.135 by 139.432 points 
+Resolution: 312.41 by 312.41 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/Narratives.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 751K, 588 by 327 pixels
+Dimensions: 274.546 by 152.681 points 
+Resolution: 154.204 by 154.204 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/TrackTote.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 448K, 413 by 278 pixels
+Dimensions: 208.654 by 140.45 points 
+Resolution: 142.513 by 142.513 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/Ian.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 7331K, 1500 by 1001 pixels
+Dimensions: 540.087 by 373.213 points 
+Resolution: 199.968 by 193.112 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/GridEditor.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 1312K, 680 by 494 pixels
+Dimensions: 212.57 by 154.426 points 
+Resolution: 230.324 by 230.324 pixels per inch
+
+
+/Users/sam/Documents/Projects/Working projects/Debrief works/Flayer/brochure/Links/NaturalEarth.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 701K, 483 by 372 pixels
+Dimensions: 198.69 by 153.028 points 
+Resolution: 175.027 by 175.027 pixels per inch
