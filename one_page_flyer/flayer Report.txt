@@ -1,0 +1,47 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: flayer.pdf
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: points
+Artboard Dimensions: 595.2756 pt x 841.8898 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 2935 U (Lab)
+PANTONE 305 U (Lab)
+PANTONE Process Blue U (Lab)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Apple Symbols (TrueType)
+Museo 700 (OTF)
+Roboto Light (OTF)
+Roboto (OTF)
+Roboto Medium (OTF)
+Roboto Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
